@@ -6,7 +6,7 @@ export default function Hero() {
     <section id = "home" className="hero-section" role="banner">
       <h1 className="hero-title">
         <span className="font-bold">Powering Your</span>{" "}
-        <span className="italic">Growth</span>{" "}
+        <span className="font-bold underline">Growth</span>{" "}
         <span className="font-bold">with Unbreakable Security</span>
       </h1>
       <p className="hero-description">
