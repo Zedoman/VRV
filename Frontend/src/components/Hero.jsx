@@ -15,7 +15,6 @@ export default function Hero() {
       </p>
       <div className="hero-buttons">
         <button className="hero-button">Book a Demo</button>
-        <button className="hero-button">Get Expert Advice</button>
       </div>
       <img
         loading="lazy"
