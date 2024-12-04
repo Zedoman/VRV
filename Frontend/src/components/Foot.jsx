@@ -56,7 +56,7 @@ const Footer = () => {
         <img
     src="favicon.ico" // Replace with your image path
     alt="Logo"
-    className="w-[60.79px] h-[45.97px] absolute left-[-2.21px] top-0 object-contain"
+    className="w-[60.79px] h-[45.97px] absolute left-[-5.21px] top-0 object-contain"
   />
         </div>
       </div>
