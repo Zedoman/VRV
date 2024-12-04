@@ -118,7 +118,7 @@
 // }
 
 
-import "./globalpresence.css"; // Import the CSS file
+import "./GlobalPresence.css"; // Import the CSS file
 
 const GlobalPresence = () => {
   return (
